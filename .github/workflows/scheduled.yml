@@ -5,6 +5,7 @@ on:
     - cron: '1 0 * * *'
   watch:
     types: [started]
+  workflow_dispatch:  # This line enables manual triggers
   
 jobs:
   build:
