@@ -20,13 +20,13 @@
   "dependencies": {
     "@octokit/rest": "20.0.2",
     "axios": "^1.6.7",
-    "dotenv": "16.4.1",
+    "dotenv": "16.4.5",
     "eastasianwidth": "0.2.0",
     "gist-box": "0.3.1",
     "octokit": "3.1.2"
   },
   "devDependencies": {
-    "webpack": "5.90.0",
+    "webpack": "5.90.3",
     "webpack-cli": "5.1.4"
   }
 }
